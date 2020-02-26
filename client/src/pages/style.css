@@ -1,0 +1,68 @@
+.live-pb-num {
+    color: whitesmoke;
+    font-style: 'Quantico', 'Cursive';
+    background-color: #504f54;
+    display: inline;
+    padding: 3px 8px;
+    border-radius: 5px;
+    border: solid red 2px;
+}
+
+button.hero-button {
+    background-color: transparent;
+    color: whitesmoke;
+    border-radius: 5px;
+    display: inline;
+}
+
+h4.tagline {
+    color: whitesmoke;
+    margin-top: 0;
+}
+
+h1.logo {
+    margin-bottom: 0;
+  }
+
+  h4.jackpot {
+      color: black;
+  }
+
+
+  .powerballs {
+    display: inline-block;
+  
+}
+
+
+
+.powerballs-wrap {
+    display: inline-block;
+    background: whitesmoke;
+    margin: 1.75px;
+    padding: 1.5px;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;    
+    border: solid black .50px;
+   
+
+}
+
+.powerballNumber {
+    color: black;
+    font-weight: 600; 
+  
+} 
+
+#redBall {
+    color: whitesmoke;
+    background-color: red;
+    /* font-weight: 600;
+    border-radius: 50%; */
+} 
+
+h3.jumbotronH3 {
+    color: black;
+    font-family: "Quantico", "Cursive";
+}
